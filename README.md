@@ -4,3 +4,6 @@ The single-digit addition task can be used to distract people in experiments, co
 # Why this?
 This simple app was used to study how people move in a crowd when distracted by smartphone use in this study:
 Murakami, H., Feliciani, C., Nishiyama, Y., & Nishinari, K. (2021). Mutual anticipation can contribute to self-organization in human crowds. Science Advances, 7(12), eabe7758.
+
+# Security
+You may need to 'force' your phone to install this app since it is not available through the Google Play store. We are not aware of any risks, and the code has been written from scratch in Android Studio. However, you install the app at your own risk.
